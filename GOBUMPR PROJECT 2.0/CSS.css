@@ -1,0 +1,151 @@
+#headerhead{
+    height: 120px;
+    width: 100%;
+    background-color: darkslategrey;
+}
+#logo{
+    height:100px;
+    width:65px;
+    display:inline-block;
+    float:left;
+}
+#button{
+    float:right;
+    padding:14px;
+}
+.fa-star{
+    float: left;
+}
+.fas fa-spa{
+   margin-left: 30px;
+}
+
+.fa-bookmark{
+    margin-left: 20px;
+}
+.fa-bookmark:hover{
+    color: red;
+}
+.fa-filter:hover{
+    color:red;
+}
+.fa-star:hover{
+    color:gold;
+    display: inline;
+
+}
+#tile{
+    font-style:arial;
+    display:inline-block;
+    background-color:red;
+    text-align:center;
+    border-radius:10px;
+}
+
+#off{
+    width:100%;
+    height:100%;
+}
+#imageslider{
+    width:600px;
+    height:400px;
+    margin-left:200px;
+    display:block;
+}
+#searchbox{
+    padding:15px;
+    width:500px;
+    display:inline;
+}
+#dropdown{
+    display:inline;
+    margin-left:70px;
+    padding:15px;
+}
+#research{
+    display:inline;
+    padding:15px;
+}
+#hotellist{
+    border:2px solid red;
+    width:1000px;
+    height:400px;
+    margin-left:220px;
+    
+    
+}
+#images{
+    height:290px;
+    width:200px;
+    display:inline;
+    float: left;
+    border-radius: 290px;
+}
+#restaurantname{
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: green;
+    background-color: white;
+    display: inline;
+}
+#information{
+    color: red;
+    
+    display: inline;
+    font-family: sans-serif;
+
+}
+#spec{
+    color: green;
+    font-size: 20px;
+    display: inline;
+}
+#special{
+    color:red;
+    display: inline;
+}
+#orderbtn{
+    padding:20px;
+    float: right;
+    margin-top: 110px;
+    display: inline;
+}
+#reviewbtn{
+    margin-top: 110px;
+    padding:20px;
+    display: inline;
+}
+#reviewbox{
+   
+}
+::placeholder{
+    color: red;
+    opacity: 1;
+}
+#lowbox{
+    width: 100%;
+    height:380px;
+    background-color: darkslategrey;
+}
+#aboutcompany{
+    
+    width:35%;
+    height: 380px;
+    float: left;
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#contactaddress{
+    width:25%;
+    height:380px;
+    float:right;
+    color: azure;
+}
+#map{
+    height: 200px;
+    width: 100px;
+}
+#followus{
+    display: inline;
+}
